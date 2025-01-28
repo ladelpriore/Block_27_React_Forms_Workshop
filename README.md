@@ -8,6 +8,6 @@ There are four tabs below:\
 Initialize the Project with npm\
 Sign Up Component to send and receive username and password to the API\
 Authenticate Component, token and authentication\
-Wrapping Up\
+Wrapping Up
 
 ### React, vite, babel, ESlint rules
