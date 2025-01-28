@@ -1,8 +1,14 @@
-# React + Vite
+# Block 27 React Forms Workshop
+Write controlled React forms that will hit an external API. The API we are using is a small internal FSA API with only two routes, /signup and /authenticate (refer to linked API documentation).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Requirements
+In this workshop, you will pass the /signup route, either a username and password which will come from a React form. On success, the API will send back a token, which you can store, then pass to the server to authenticate future requests. If you are completing this workshop with a partner or team, make sure you switch between the driver and navigator roles!
 
-Currently, two official plugins are available:
+There are four tabs below:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Initialize the Project with npm
+I  Sign Up Component to send and receive username and apssword to the API
+I  Authenticate Component, token and authentication
+I  Wrapping Up
+
+# React, vite, babel, ESlint rules
